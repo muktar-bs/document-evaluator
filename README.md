@@ -20,7 +20,7 @@ This system automatically evaluates project overview documents based on predefin
 
 1. Clone this repository:
    ```
-   git clone [repository-url]
+   git clone https://github.com/muktar-bs/document-evaluator.git
    ```
 2. Navigate to the project directory:
    ```
