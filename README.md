@@ -105,7 +105,6 @@ Modify this object to customize the evaluation criteria.
 1. Place the project overview document (named `project-overview.md`) in the same directory as `index.ts`.
 2. Run the script:
    ```
-   npm install
    npm run dev
    ```
 
